@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">JourneyJournal</string>
+    <string name="journeyjournal">JourneyJournal</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="journeyjournalsplash">JourneyJournal</string>
+    <string name="developed_by_antonis_valvis">Developed by Antonis Valvis</string>
+    <string name="journey_title">Journey title</string>
+    <string name="journey_details">Journey details</string>
+    <string name="journey_date">Journey date</string>
+    <string name="journey">journey</string>
+    <string name="new_journey">New Journey</string>
+    <string name="title">Title</string>
+    <string name="details">Details</string>
+    <string name="insert_photo">Insert Photo</string>
+    <string name="journeys">Journeys</string>
+</resources>
